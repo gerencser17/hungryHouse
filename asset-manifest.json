@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/hungryHouse/static/css/main.2e268ce3.chunk.css",
+    "main.js": "/hungryHouse/static/js/main.1e2d4c8a.chunk.js",
+    "main.js.map": "/hungryHouse/static/js/main.1e2d4c8a.chunk.js.map",
+    "runtime-main.js": "/hungryHouse/static/js/runtime-main.75a105e9.js",
+    "runtime-main.js.map": "/hungryHouse/static/js/runtime-main.75a105e9.js.map",
+    "static/js/2.b6f744da.chunk.js": "/hungryHouse/static/js/2.b6f744da.chunk.js",
+    "static/js/2.b6f744da.chunk.js.map": "/hungryHouse/static/js/2.b6f744da.chunk.js.map",
+    "index.html": "/hungryHouse/index.html",
+    "precache-manifest.832faadcbcc189b5875b66194ccc1e5e.js": "/hungryHouse/precache-manifest.832faadcbcc189b5875b66194ccc1e5e.js",
+    "service-worker.js": "/hungryHouse/service-worker.js",
+    "static/css/main.2e268ce3.chunk.css.map": "/hungryHouse/static/css/main.2e268ce3.chunk.css.map",
+    "static/js/2.b6f744da.chunk.js.LICENSE.txt": "/hungryHouse/static/js/2.b6f744da.chunk.js.LICENSE.txt",
+    "static/media/searchBar.css": "/hungryHouse/static/media/background_search_mobile.5d0905e6.jpg",
+    "static/media/logo.svg": "/hungryHouse/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75a105e9.js",
+    "static/js/2.b6f744da.chunk.js",
+    "static/css/main.2e268ce3.chunk.css",
+    "static/js/main.1e2d4c8a.chunk.js"
+  ]
+}
